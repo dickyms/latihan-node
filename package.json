@@ -1,0 +1,25 @@
+{
+  "name": "latihan-nodejs",
+  "version": "1.0.0",
+  "description": "Belajar node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dickyms/latihan-node.git"
+  },
+  "keywords": [
+    "Learn"
+  ],
+  "author": "Dicky M. S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dickyms/latihan-node/issues"
+  },
+  "homepage": "https://github.com/dickyms/latihan-node#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
